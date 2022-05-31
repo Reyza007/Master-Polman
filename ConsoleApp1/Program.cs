@@ -9,8 +9,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            if{
-                //coment
+            if
+             { 
+               string a;
+                a= "hello word"
             }
         }
     }
